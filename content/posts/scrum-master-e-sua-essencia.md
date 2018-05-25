@@ -4,14 +4,14 @@ authors: Athos Bonner
 image: uploads/2017/03/151024170936-rugby-4-super-169.jpg
 type: post
 date: 2017-04-06
-excerpt: O papel do Scrum Master vai muito além de um simples ator de uma metodologia
+excerpt: O papel do Scrum Master vai muito além de um simples ator de um framework
 categories:
   - Agile e Gestão
 ---
 
-O papel do Scrum Master vai muito além de um simples ator de uma metodologia que pode ser aplicada em empresas, ele tem um papel fundamental no processo do dia a dia do Scrum.
+O papel do Scrum Master vai muito além de um simples ator de um framework que pode ser aplicada em empresas, ele tem um papel fundamental no processo do dia a dia do Scrum.
 
-Um cara chamado Jeff Sutherland quando estava na sua primeira equipe de desenvolvimento tentando encontrar uma forma melhor de entregar softwares, ainda criando os papeis de uma metodologia revolucionária, todos os dias ele mostrava para sua equipe um vídeo de um time de rúgbi da Nova Zelândia chamado All Blacks se preparando para enfrentar um adversário, antes do confronto eles realizam um ritual chamado de haka, é uma apresentação fantástica e contagiante. A haka é uma dança de guerreiros maoris, são batidas nos pés e cantos em sincronia, são homens que estão naquele momento se transformando em algo maior, invocando um espírito que não aceitam derrotas e nem desanimo, uma dança que significa cortar a garganta do inimigo, aumente o volume e veja abaixo uma apresentação do All Blacks vs Australia em Auckland, 2016, contagiante.
+Um cara chamado Jeff Sutherland quando estava na sua primeira equipe de desenvolvimento tentando encontrar uma forma melhor de entregar softwares, ainda criando os papeis de um framework revolucionária, todos os dias ele mostrava para sua equipe um vídeo de um time de rúgbi da Nova Zelândia chamado All Blacks se preparando para enfrentar um adversário, antes do confronto eles realizam um ritual chamado de haka, é uma apresentação fantástica e contagiante. A haka é uma dança de guerreiros maoris, são batidas nos pés e cantos em sincronia, são homens que estão naquele momento se transformando em algo maior, invocando um espírito que não aceitam derrotas e nem desanimo, uma dança que significa cortar a garganta do inimigo, aumente o volume e veja abaixo uma apresentação do All Blacks vs Australia em Auckland, 2016, contagiante.
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/PptTeyYShdw" frameborder="0" allowfullscreen></iframe>
 
